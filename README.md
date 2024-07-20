@@ -27,4 +27,5 @@ GOOGLE : To gather resources and data for simulation
 
 WAVEFORMS OBTAINED BY MODELSIM DURING SIMULATION
 
-![Uploading IMG-20240720-WA0004.jpg…]()
+![IMG-20240720-WA0004](https://github.com/user-attachments/assets/7a4d5544-155d-4d7d-a146-8755ac5e1726)
+
