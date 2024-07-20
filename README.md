@@ -4,13 +4,13 @@
 
 **Company**:CODTECH IT SOLUTION
 
-**ID**:
+**ID**:CT4VLSI2968
 
 **Domine**:VLSI(Very Large Scale Integration)
 
-**Duration**:
+**Duration**: JUNE 25th,2024 to JULY 25th, 2024
 
-**Mentor**:
+**Mentor**:Neela Santhosh Kumar
 
 OVERVIEW OF THE PROJECT
 
